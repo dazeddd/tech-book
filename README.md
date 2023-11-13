@@ -2,9 +2,13 @@
 
 [Clean Code (클린 코드)](https://www.yes24.com/Product/Goods/11681152) 
 
+[CPython 파헤치기](https://www.yes24.com/Product/Goods/112893907)
+
 [데이터 중심 애플리케이션 설계](https://www.yes24.com/Product/Goods/59566585)
 
 [친절한 SQL 튜닝](https://www.yes24.com/Product/Goods/59566585)
+
+[파이썬 코딩의 기술 개정 2판](https://www.yes24.com/Product/Goods/94197582)
 
 [파이썬 알고리즘 인터뷰](https://www.yes24.com/Product/Goods/91084402)
 
@@ -18,17 +22,17 @@
 
 [Two scoops of Django](https://www.yes24.com/Product/Goods/30355215)
 
-[깔끔한 파이썬 탄탄한 백엔드](https://www.yes24.com/Product/Goods/68713424)
-
 [Pro Git](https://www.yes24.com/Product/Goods/24841824)
 
 [혼자 공부하는 머신러닝+딥러닝](https://www.yes24.com/Product/Goods/96024871)
+
+[Zero to One](https://www.yes24.com/Product/Goods/103990890)
 
 [함께 자라기](https://www.yes24.com/Product/Goods/67350256)
 
 [실리콘 밸리에선 어떻게 일하나요](https://www.yes24.com/Product/Goods/113447921)
 
-
+[유난한 도전](https://www.yes24.com/Product/Goods/115007234)
 
 
 
