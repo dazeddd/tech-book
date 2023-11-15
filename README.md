@@ -1,6 +1,6 @@
-[The Programmatic Programmer (실용주의 프로그래머)](https://www.yes24.com/Product/Goods/107077663)
+[The Programmatic Programmer (실용주의 프로그래머)](https://dazeddd.github.io/posts/pragmatic_programmer_review/)
 
-[Clean Code (클린 코드)](https://www.yes24.com/Product/Goods/11681152) 
+[Clean Code (클린 코드)](https://dazeddd.github.io/posts/clean_code_review/) 
 
 [CPython 파헤치기](https://www.yes24.com/Product/Goods/112893907)
 
@@ -8,7 +8,7 @@
 
 [친절한 SQL 튜닝](https://www.yes24.com/Product/Goods/59566585)
 
-[파이썬 코딩의 기술 개정 2판](https://www.yes24.com/Product/Goods/94197582)
+[파이썬 코딩의 기술 - 개정 2판](https://www.yes24.com/Product/Goods/94197582)
 
 [파이썬 알고리즘 인터뷰](https://www.yes24.com/Product/Goods/91084402)
 
