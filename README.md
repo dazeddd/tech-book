@@ -26,6 +26,8 @@
 
 [혼자 공부하는 머신러닝+딥러닝](https://www.yes24.com/Product/Goods/96024871)
 
+[해커와 화가](https://www.yes24.com/Product/Goods/11775130)
+
 [Zero to One](https://www.yes24.com/Product/Goods/103990890)
 
 [함께 자라기](https://www.yes24.com/Product/Goods/67350256)
