@@ -6,6 +6,8 @@
 
 [데이터 중심 애플리케이션 설계](https://www.yes24.com/Product/Goods/59566585)
 
+[견고한 데이터 엔지니어링](https://www.yes24.com/Product/Goods/119712582)
+
 [친절한 SQL 튜닝](https://www.yes24.com/Product/Goods/59566585)
 
 [파이썬 코딩의 기술 - 개정 2판](https://www.yes24.com/Product/Goods/94197582)
@@ -35,6 +37,5 @@
 [실리콘 밸리에선 어떻게 일하나요](https://www.yes24.com/Product/Goods/113447921)
 
 [유난한 도전](https://www.yes24.com/Product/Goods/115007234)
-
 
 
